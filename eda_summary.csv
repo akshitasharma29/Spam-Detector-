@@ -1,0 +1,10 @@
+metric,value
+total_emails,5575
+spam_count,747
+ham_count,4828
+spam_ratio,0.1340
+ham_ratio,0.8660
+avg_spam_length_chars,141.7
+avg_ham_length_chars,74.5
+avg_spam_token_count,19.3
+avg_ham_token_count,8.0
