@@ -32,3 +32,25 @@ Machine Learning
 
 Data Visualization
 
+**The project uses a spam message dataset (spam.csv) containing labeled messages categorized as spam or ham.**
+
+🔹 Outputs
+
+Accuracy and performance metrics
+
+Classified email/message results
+
+Visualization dashboard
+
+Analytical reports and summaries
+
+🔹 Use Cases
+
+Email filtering systems
+
+Messaging applications
+
+Cybersecurity and fraud prevention
+
+Business communication platforms
+
